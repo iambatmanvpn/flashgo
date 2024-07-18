@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+    xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Release</title>
+        <item>
+            <title>Client</title>
+            <pubDate>Mon, 15 Jul 2024 21:56:29 +0800</pubDate>
+            <enclosure url="https://pkgs.flashgo.net/client/1.4.0/FlashGo_v1.4.0%2B10400.apk" sparkle:version="1.4.0+10400" sparkle:os="android" />
+        </item>
+        <item>
+            <title>Client</title>
+            <pubDate>Tue, 16 Jul 2024 11:42:41 +0800</pubDate>
+            <enclosure url="https://pkgs.flashgo.net/client/1.4.0/FlashGo_v1.4.0%2B10400.exe" sparkle:version="1.4.0+10400" sparkle:os="windows" />
+        </item>
+        <item>
+            <title>Client</title>
+            <pubDate>Thu, 18 Jul 2024 11:16:16 +0800</pubDate>
+            <enclosure url="https://pkgs.flashgo.net/client/1.4.0/FlashGo_v1.4.0%2B10400.dmg" sparkle:version="1.4.0+10400" sparkle:os="macos" />
+        </item>
+        <item>
+            <title>Client</title>
+            <pubDate>Tue, 16 Jul 2024 11:46:37 +0800</pubDate>
+            <enclosure url="https://pkgs.flashgo.net/client/1.4.0/FlashGo_v1.4.0%2B10400.appimage" sparkle:version="1.4.0+10400" sparkle:os="linux" />
+        </item>
+    </channel>
+</rss>
