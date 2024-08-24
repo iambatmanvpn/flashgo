@@ -5,23 +5,23 @@
         <title>Release</title>
         <item>
             <title>Client</title>
-            <pubDate>Tue, 13 Aug 2024 14:13:14 +0800</pubDate>
-            <enclosure url="https://pkgs.flashgo.net/client/2.1.5/FlashGo_v2.1.5%2B240805.apk" sparkle:version="2.1.5+240805" sparkle:os="android" />
+            <pubDate>Sat, 24 Aug 2024 21:13:26 +0800</pubDate>
+            <enclosure url="https://pkgs.flashgo.net/client/2.2.0/FlashGo_v2.2.0%2B240820.apk" sparkle:version="2.2.0+240820" sparkle:os="android" />
         </item>
         <item>
             <title>Client</title>
-            <pubDate>Tue, 13 Aug 2024 14:26:51 +0800</pubDate>
-            <enclosure url="https://pkgs.flashgo.net/client/2.1.5/FlashGo_v2.1.5%2B240805.exe" sparkle:version="2.1.5+240805" sparkle:os="windows" />
+            <pubDate>Sat, 24 Aug 2024 21:15:28 +0800</pubDate>
+            <enclosure url="https://pkgs.flashgo.net/client/2.2.0/FlashGo_v2.2.0%2B240820.exe" sparkle:version="2.2.0+240820" sparkle:os="windows" />
         </item>
         <item>
             <title>Client</title>
-            <pubDate>Tue, 13 Aug 2024 14:09:50 +0800</pubDate>
-            <enclosure url="https://pkgs.flashgo.net/client/2.1.5/FlashGo_v2.1.5%2B240805.dmg" sparkle:version="2.1.5+240805" sparkle:os="macos" />
+            <pubDate>Sat, 24 Aug 2024 21:11:17 +0800</pubDate>
+            <enclosure url="https://pkgs.flashgo.net/client/2.2.0/FlashGo_v2.2.0%2B240820.dmg" sparkle:version="2.2.0+240820" sparkle:os="macos" />
         </item>
         <item>
             <title>Client</title>
-            <pubDate>Tue, 13 Aug 2024 14:20:38 +0800</pubDate>
-            <enclosure url="https://pkgs.flashgo.net/client/2.1.5/FlashGo_v2.1.5%2B240805.appimage" sparkle:version="2.1.5+240805" sparkle:os="linux" />
+            <pubDate>Sat, 24 Aug 2024 21:17:54 +0800</pubDate>
+            <enclosure url="https://pkgs.flashgo.net/client/2.2.0/FlashGo_v2.2.0%2B240820.appimage" sparkle:version="2.2.0+240820" sparkle:os="linux" />
         </item>
     </channel>
 </rss>
