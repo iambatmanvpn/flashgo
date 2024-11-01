@@ -43,7 +43,7 @@ This is an announcement board for the release and update of the FlashGo client v
   Download: [FlashGo_latest.apk](https://pkgs.flashgo.net/client/FlashGo_latest.apk)
 
 - Google Play
-  [Download from Google Play](https://play.google.com/store/apps/details?id=net.flashgo.client)
+  [Download from Google Play](https://play.google.com/store/apps/details?id=app.flashgo.net)
 
 - iOS
   [Download from App Store](https://apps.apple.com/us/app/flashgo/id1581440137000)
