@@ -5,23 +5,23 @@
         <title>Release</title>
         <item>
             <title>Client</title>
-            <pubDate>Sat, 14 Dec 2024 03:33:50 +0800</pubDate>
-            <enclosure url="https://pkgs.flashgo.net/client/2.6.4/FlashGo_v2.6.4%2B24121301.apk" sparkle:version="2.6.4+24121301" sparkle:os="android" />
+            <pubDate>Sun, 15 Dec 2024 18:45:22 +0800</pubDate>
+            <enclosure url="https://pkgs.flashgo.net/client/2.6.5/FlashGo_v2.6.5%2B24121501.apk" sparkle:version="2.6.5+24121501" sparkle:os="android" />
         </item>
         <item>
             <title>Client</title>
-            <pubDate>Sat, 14 Dec 2024 03:43:52 +0800</pubDate>
-            <enclosure url="https://pkgs.flashgo.net/client/2.6.4/FlashGo_v2.6.4%2B24121301.exe" sparkle:version="2.6.4+24121301" sparkle:os="windows" />
+            <pubDate>Sun, 15 Dec 2024 18:53:17 +0800</pubDate>
+            <enclosure url="https://pkgs.flashgo.net/client/2.6.5/FlashGo_v2.6.5%2B24121501.exe" sparkle:version="2.6.5+24121501" sparkle:os="windows" />
         </item>
         <item>
             <title>Client</title>
-            <pubDate>Sat, 14 Dec 2024 03:29:20 +0800</pubDate>
-            <enclosure url="https://pkgs.flashgo.net/client/2.6.4/FlashGo_v2.6.4%2B24121301.dmg" sparkle:version="2.6.4+24121301" sparkle:os="macos" />
+            <pubDate>Sun, 15 Dec 2024 18:34:18 +0800</pubDate>
+            <enclosure url="https://pkgs.flashgo.net/client/2.6.5/FlashGo_v2.6.5%2B24121501.dmg" sparkle:version="2.6.5+24121501" sparkle:os="macos" />
         </item>
         <item>
             <title>Client</title>
-            <pubDate>Sat, 14 Dec 2024 03:40:49 +0800</pubDate>
-            <enclosure url="https://pkgs.flashgo.net/client/2.6.4/FlashGo_v2.6.4%2B24121301.appimage" sparkle:version="2.6.4+24121301" sparkle:os="linux" />
+            <pubDate>Sun, 15 Dec 2024 18:48:19 +0800</pubDate>
+            <enclosure url="https://pkgs.flashgo.net/client/2.6.5/FlashGo_v2.6.5%2B24121501.appimage" sparkle:version="2.6.5+24121501" sparkle:os="linux" />
         </item>
     </channel>
 </rss>
