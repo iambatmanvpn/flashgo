@@ -6,71 +6,71 @@
 
 ## 客户端
 
-- [x] Windows
+- ✅ Windows
   Download: [FlashGo_latest.exe](https://pkgs.flashgo.net/client/FlashGo_latest.exe)
 
-- [x] macOS
+- ✅ macOS
   Download: [FlashGo_latest.dmg](https://pkgs.flashgo.net/client/FlashGo_latest.dmg)
 
-- [x] Linux
+- ✅ Linux
   Download: [FlashGo_latest.appimage](https://pkgs.flashgo.net/client/FlashGo_latest.appimage)
 
-- [x] Ubuntu
+- ✅ Ubuntu
   Download: [FlashGo_latest.deb](https://pkgs.flashgo.net/client/FlashGo_latest.deb)
 
-- [x] Fedora
+- ✅ Fedora
   Download: [FlashGo_latest.rpm](https://pkgs.flashgo.net/client/FlashGo_latest.rpm)
 
-- [x] Android
+- ✅ Android
   Download: [FlashGo_latest.apk](https://pkgs.flashgo.net/client/FlashGo_latest.apk)
 
-- [x] Google Play
+- ✅ Google Play
   [Download from Google Play](https://play.google.com/store/apps/details?id=app.flashgo.net)
 
-- [x] iOS
+- ✅ iOS
   [Download from App Store](https://apps.apple.com/us/app/flashgo/id1581440137000)
 
-- [x] Raspberry Pi
+- ✅ Raspberry Pi
   Download: [FlashGo_latest.deb](https://pkgs.flashgo.net/client/FlashGo_latest.deb)
 
-- [x] OpenWRT
+- ✅ OpenWRT
   Download: [FlashGo_latest.ipk](https://pkgs.flashgo.net/client/FlashGo_latest.ipk)
 
 ## 用户系统
 
 基于流行的 `Next.js` 开发, 使用 `TypeScript` 和 `Tailwind CSS` 进行开发, 使用 `Shadcn UI` 作为组件库.
 
-- [x] 登录
-- [x] 注册
-- [x] 忘记密码
-- [x] 重置密码
-- [x] 修改密码
-- [x] 设备管理
-- [x] 套餐购买,支持自动订阅
-- [x] 订单管理
-- [x] 工单系统
-- [x] 配置同步管理
-- [x] 协议设置
-- [x] 路由设置
-- [x] 落地IP管理
-- [x] 加速设置
-- [x] 推广联盟
-- [x] 业绩查询
-- [x] 产品文档
+- ✅ 登录
+- ✅ 注册
+- ✅ 忘记密码
+- ✅ 重置密码
+- ✅ 修改密码
+- ✅ 设备管理
+- ✅ 套餐购买,支持自动订阅
+- ✅ 订单管理
+- ✅ 工单系统
+- ✅ 配置同步管理
+- ✅ 协议设置
+- ✅ 路由设置
+- ✅ 落地IP管理
+- ✅ 加速设置
+- ✅ 推广联盟
+- ✅ 业绩查询
+- ✅ 产品文档
 
 ## 后台管理系统
 
-- [x] 用户管理
-- [x] 管理员管理
-- [x] 节点管理
-- [x] 协议管理
+- ✅ 用户管理
+- ✅ 管理员管理
+- ✅ 节点管理
+- ✅ 协议管理
 
 ## 节点服务程序
 
 我们的节点程序整合了以下流行的内核, 并进行了优化和定制, 支持目前所有主流的协议, 包括 vless, vmess, trojan, shadowsocks, xtls, tuic, quic, hysteria2 等, 以满足您的需求.
 
-- [x] singbox
-- [x] xray-core
-- [x] clash
-- [x] v2ray-core
-- [x] 基于 iptables 的自动防护系统,可自动识别攻击流量并封禁
+- ✅ singbox
+- ✅ xray-core
+- ✅ clash
+- ✅ v2ray-core
+- ✅ 基于 iptables 的自动防护系统,可自动识别攻击流量并封禁
