@@ -83,4 +83,4 @@
 
 **[Telegram](https://t.me/iambatmanvpn)**
 
-![](./Telegram.png){width=200px}
+<img src="./Telegram.png" width="200" alt="Telegram QR Code">
