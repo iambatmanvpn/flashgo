@@ -1,6 +1,6 @@
-# FlashGo
+# SkyApp
 
-🚀 本程序是由 SkyApp 开发的一整套VPN解决方案, 具有完整的客户端, 服务端, 以及配套的API服务和后台管理系统。
+🚀 本程序是由 SkyApp.One 开发的一整套VPN解决方案, 具有完整的客户端, 服务端, 以及配套的API服务和后台管理系统。
 
 您无需担心技术和代码问题, 直接省去开发和技术成本, 我们具备15年以上网络工程开发经验, 可为您解决遇到的任何技术问题, 提供一站式VPN定制开发解决方案, 最快可一周内上线, 让您轻松运营自己的VPN服务.
 
@@ -32,43 +32,51 @@
 
   我们的系统可自动识别并封锁高风险地区的用户访问,防止被钓鱼, 此外还内置了IP自动防护功能,可对攻击流量自动识别和封禁
 
-## 在线体验
+- ✅ 多平台支持
 
-[FlashGo](https://flashgo.net)
+  我们支持目前所有主流的平台, 包括 Windows, macOS, Linux, Android, iOS, OpenWRT, Raspberry Pi 等
+
+- ✅ 网址黑名单
+
+  我们支持网址黑名单功能, 支持对用户级别的网站访问过滤, 防止用户访问特定网站
+
+- ✅ 自动更新
+
+  我们支持自动更新功能, 可自动检测并更新最新版本
 
 ## 客户端
 
 - ✅ Windows
-  Download: [FlashGo_latest.exe](https://pkgs.flashgo.net/client/FlashGo_latest.exe)
+  Download: [SkyApp_latest.exe](https://pkgs.skyapp.one/client/FlashGo_latest.exe)
 
 - ✅ macOS
-  Download: [FlashGo_latest.dmg](https://pkgs.flashgo.net/client/FlashGo_latest.dmg)
+  Download: [SkyApp_latest.dmg](https://pkgs.skyapp.one/client/FlashGo_latest.dmg)
 
 - ✅ Linux
-  Download: [FlashGo_latest.appimage](https://pkgs.flashgo.net/client/FlashGo_latest.appimage)
+  Download: [SkyApp_latest.appimage](https://pkgs.skyapp.one/client/FlashGo_latest.appimage)
 
 - ✅ Ubuntu
-  Download: [FlashGo_latest.deb](https://pkgs.flashgo.net/client/FlashGo_latest.deb)
+  Download: [SkyApp_latest.deb](https://pkgs.skyapp.one/client/FlashGo_latest.deb)
 
 - ✅ Fedora
-  Download: [FlashGo_latest.rpm](https://pkgs.flashgo.net/client/FlashGo_latest.rpm)
+  Download: [SkyApp_latest.rpm](https://pkgs.skyapp.one/client/FlashGo_latest.rpm)
 
 - ✅ Android
-  Download: [FlashGo_latest.apk](https://pkgs.flashgo.net/client/FlashGo_latest.apk)
+  Download: [SkyApp_latest.apk](https://pkgs.skyapp.one/client/FlashGo_latest.apk)
 
 - ✅ Google Play
-  [Download from Google Play](https://play.google.com/store/apps/details?id=app.flashgo.net)
+  [Download from Google Play](https://play.google.com/store/apps/details?id=app.skyapp.one)
 
 - ✅ iOS
   [Download from App Store](https://apps.apple.com/us/app/flashgo/id1581440137000)
 
 - ✅ Raspberry Pi
-  Download: [FlashGo_latest.deb](https://pkgs.flashgo.net/client/FlashGo_latest.deb)
+  Download: [SkyApp_latest.deb](https://pkgs.skyapp.one/client/FlashGo_latest.deb)
 
 - ✅ OpenWRT
-  Download: [FlashGo_latest.ipk](https://pkgs.flashgo.net/client/FlashGo_latest.ipk)
+  Download: [SkyApp_latest.ipk](https://pkgs.skyapp.one/client/FlashGo_latest.ipk)
 
-## 用户系统
+## 用户功能
 
 基于流行的 `Next.js` 开发, 使用 `TypeScript` 和 `Tailwind CSS` 进行开发, 使用 `Shadcn UI` 作为组件库.
 
@@ -90,12 +98,13 @@
 - ✅ 业绩查询
 - ✅ 产品文档
 
-## 后台管理系统
+## 管理功能
 
 - ✅ 用户管理
 - ✅ 管理员管理
 - ✅ 节点管理
 - ✅ 协议管理
+- ✅ 黑名单管理
 
 ## 节点服务程序
 
@@ -107,7 +116,7 @@
 - ✅ v2ray-core
 - ✅ 基于 iptables 的自动防护系统,可自动识别攻击流量并封禁
 
-## 购买/续费/商业合作
+## 免费体验/购买/续费/商业合作
 
 **[Telegram](https://t.me/iambatmanvpn)**
 
